@@ -15,10 +15,14 @@
 <img src="https://img.icons8.com/nolan/64/ms-word.png" alt="Word" width="50" height="50"/>
 <img src="https://img.icons8.com/nolan/64/trello.png" alt="Trello" width="50" height="50"/>
 
-  </br>
-  <h2 align="center"> OTHERS: </h2>
-  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" width="50" height="50"/>
-</p>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klinkonskydev&layout=compact)](https://github.com/klinkonsky/github-readme-stats)
+</br>
+![Klinkonskydev GitHub stats](https://github-readme-stats.vercel.app/api?username=klinkonskydev&show_icons=true&theme=radical)
+
+
 
 <!-- <h3 align="center"> 🟣 I'am learning React in this moment 🟣 </h3> 
 
