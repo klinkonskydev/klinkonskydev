@@ -16,8 +16,7 @@
 <img src="https://img.icons8.com/nolan/64/trello.png" alt="Trello" width="50" height="50"/>
 
   </br>
-  <h2 align="center"> OTHERS:</h2>
-  </br>
+  <h2 align="center"> OTHERS: </h2>
   <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" width="50" height="50"/>
 </p>
 
