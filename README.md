@@ -8,5 +8,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-<img src="/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg" alt="Excel" width="50" height="50"/>
+<img src="https://img.icons8.com/color/50/000000/microsoft-excel-2019--v1.png" alt="Excel" width="50" height="50"/>
 </p>
