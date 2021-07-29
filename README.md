@@ -19,8 +19,8 @@
 
  <div>
   <a href="https://github.com/klinkonskydev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klinkonskydev&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klinkonskydev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="400rem" src="https://github-readme-stats.vercel.app/api?username=klinkonskydev&show_icons=true&theme=radical"/>
+  <img height="180em" width="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klinkonskydev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <!-- <h3 align="center"> 🟣 I'am learning React in this moment 🟣 </h3> 
