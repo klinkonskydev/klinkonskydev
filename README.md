@@ -1,7 +1,7 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Klinkonsky</h1>
 
 <h4 align="center"> 👾 Front-End Developer - Junior👾 </h4>
-<h4 align="center"> 🌌I'm interested in work with Front-End Developer🌌 </h4>
+<h4 align="center"> &copy; I am very proactive, communicative! Very passionate about turning ideas into real projects. My focus is to understand the project in depth and apply my skills in the best possible way</h4>
 
 <h2 align="center"> MY KNOWLEDGE:</h2>
 
