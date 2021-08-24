@@ -9,6 +9,8 @@
 <img src="https://img.icons8.com/nolan/64/html-5.png" alt="html5"  width="50" height="50"/>
 <img src="https://img.icons8.com/nolan/64/css-filetype.png" alt="css3"  width="50" height="50"/>
 <img src="https://img.icons8.com/nolan/64/javascript.png" alt="javascript" width="50" height="50"/>
+<img src="https://img.icons8.com/nolan/64/react-native.png" alt="React Js" width="50" height="50"/>
+<img src="https://img.icons8.com/windows/32/26e07f/node-js.png" alt="NodeJs" width="50" height="50"/>
   </br>
   </br>
 <img src="https://img.icons8.com/nolan/64/ms-excel.png" alt="Excel" width="50" height="50"/>
