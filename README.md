@@ -1,6 +1,6 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Klinkonsky</h1>
 
-<h4 align="center"> 👾 Front-End Developer - Junior👾 </h4>
+<h4 align="center"> 👾 Front-End Developer - React JS Junior 👾 </h4>
 <h4 align="center"> &copy; I am very proactive, communicative! Very passionate about turning ideas into real projects. My focus is to understand the project in depth and apply my skills in the best possible way</h4>
 
 <h2 align="center"> MY KNOWLEDGE:</h2>
@@ -21,10 +21,6 @@
 
  <div align="center">
   <a href="https://github.com/klinkonskydev">
-  <img height="180em" width="400rem" src="https://github-readme-stats.vercel.app/api?username=klinkonskydev&show_icons=true&theme=radical"/>
-  <img height="180em" width="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klinkonskydev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=klinkonskydev&show_icons=true&theme=radical"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klinkonskydev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-<!-- <h3 align="center"> 🟣 I'am learning React in this moment 🟣 </h3> 
-
-<h4 align="center"> 🌐I’m currently learning <strong>React</strong>🌐 </h4> -->
