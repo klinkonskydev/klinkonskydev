@@ -14,7 +14,6 @@
   ![Next.js](https://img.shields.io/badge/-Next-1f2335?style=flat-square&logo=next.js)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-1f2335?style=flat-square&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-1f2335?style=flat-square&logo=github)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1f2335?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   
 </br>
 
