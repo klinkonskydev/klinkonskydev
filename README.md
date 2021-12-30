@@ -1,26 +1,32 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm klinkonskydev</h1>
+<h1 align="center">Hello, I'm klinkonskydev</h1>
 
-<h4 align="center">👾 Front-End Developer - React JS | TypeScript 👾</h4>
+<h4 align="center">👾 Front-End Developer - ReactJS, NextJS and Typescript 👾</h4>
 <h4 align="center"> &copy; I am very proactive, communicative! Very passionate about turning ideas into real projects. My focus is to understand the project in depth and apply my skills in the best possible way</h4>
 
-<h2 align="center">MY KNOWLEDGE:</h2>
-
-<p align="center">
-<img src="https://img.icons8.com/nolan/64/html-5.png" alt="html5"  width="50" height="50"/>
-<img src="https://img.icons8.com/nolan/64/css-filetype.png" alt="css3"  width="50" height="50"/>
-<img src="https://img.icons8.com/nolan/64/javascript.png" alt="javascript" width="50" height="50"/>
-<img src="https://img.icons8.com/nolan/64/react-native.png" alt="React Js" width="50" height="50"/>
-<img src="https://img.icons8.com/windows/32/26e07f/node-js.png" alt="NodeJs" width="50" height="50"/>
-  </br>
-  </br>
-<img src="https://img.icons8.com/nolan/64/ms-excel.png" alt="Excel" width="50" height="50"/>
-<img src="https://img.icons8.com/nolan/64/ms-word.png" alt="Word" width="50" height="50"/>
-<img src="https://img.icons8.com/nolan/64/trello.png" alt="Trello" width="50" height="50"/>
-
+## 🛠 &nbsp;Tech Stack
+  ![HTML](https://img.shields.io/badge/-HTML-1f2335?style=flat-square&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-1f2335?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![SASS](https://img.shields.io/badge/-SASS-1f2335?style=flat-square&logo=SASS)&nbsp;
+  ![Styled Components](https://img.shields.io/badge/-Styled%20Components-1f2335?style=flat-square&logo=styledcomponents)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-1f2335?style=flat-square&logo=javascript)&nbsp;
+  ![Typescript](https://img.shields.io/badge/-Typescript-1f2335?style=flat-square&logo=typescript)&nbsp;
+  ![React](https://img.shields.io/badge/-React-1f2335?style=flat-square&logo=react)&nbsp;
+  ![Next.js](https://img.shields.io/badge/-Next-1f2335?style=flat-square&logo=next.js)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-1f2335?style=flat-square&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-1f2335?style=flat-square&logo=github)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1f2335?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+  
 </br>
 
- <div align="center">
-  <a href="https://github.com/klinkonskydev">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=klinkonskydev&show_icons=true&theme=radical"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klinkonskydev&layout=compact&langs_count=7&theme=dracula"/>
+ ## 👥 &nbsp;Social Links
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/klinkonsky/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-klinkonskydev-1f2335?style=for-the-badge&logo=linkedin" alt="linkedin"/>
+  </a>&nbsp;
+  <a href="https://www.instagram.com/klinkonsky.dev/" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-klinkonskydev-1f2335?style=for-the-badge&logo=instagram" alt="instagram"/>
+  </a>&nbsp;
 </div>
+
+</br>
