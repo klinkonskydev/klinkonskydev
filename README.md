@@ -1,31 +1,24 @@
-<h1 align="center">Hello, I'm klinkonskydev</h1>
+# klinkonsky
+Front-end - Developer @Clientbase.
 
-<h4 align="center">👾 Front-End Developer - ReactJS, NextJS and Typescript 👾</h4>
-<h4 align="center"> &copy; I am very proactive, communicative! Very passionate about turning ideas into real projects. My focus is to understand the project in depth and apply my skills in the best possible way</h4>
+[![Twitter Badge](https://img.shields.io/badge/-@klinkonskydev-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/klinkonsky.dev/)](https://www.instagram.com/klinkonsky.dev/)
+[![Linkedin Badge](https://img.shields.io/badge/-klinkonskydev-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klinkonsky/)](https://www.linkedin.com/in/klinkonsky/) 
+[![Gmail Badge](https://img.shields.io/badge/-klinkonskydev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:klinkonskydev@gmail.com)](mailto:klinkonskydev@gmail.com)
+<br /><br />
+![HTML](https://img.shields.io/badge/-HTML-0d1117?style=flat-square&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0d1117?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-0d1117?style=flat-square&logo=SASS)&nbsp;
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-0d1117?style=flat-square&logo=styledcomponents)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript)&nbsp;
+<br />
+![Typescript](https://img.shields.io/badge/-Typescript-0d1117?style=flat-square&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next-0d1117?style=flat-square&logo=next.js)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github)&nbsp;
 
-## 🛠 &nbsp;Tech Stack
-  ![HTML](https://img.shields.io/badge/-HTML-1f2335?style=flat-square&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-1f2335?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![SASS](https://img.shields.io/badge/-SASS-1f2335?style=flat-square&logo=SASS)&nbsp;
-  ![Styled Components](https://img.shields.io/badge/-Styled%20Components-1f2335?style=flat-square&logo=styledcomponents)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-1f2335?style=flat-square&logo=javascript)&nbsp;
-  ![Typescript](https://img.shields.io/badge/-Typescript-1f2335?style=flat-square&logo=typescript)&nbsp;
-  ![React](https://img.shields.io/badge/-React-1f2335?style=flat-square&logo=react)&nbsp;
-  ![Next.js](https://img.shields.io/badge/-Next-1f2335?style=flat-square&logo=next.js)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-1f2335?style=flat-square&logo=git)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-1f2335?style=flat-square&logo=github)&nbsp;
-  
-</br>
+Passionate about web development.
 
- ## 👥 &nbsp;Social Links
+I started studying programming in May 2020, I am very focused on my goals and I seek to be the best version of myself!
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/klinkonsky/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-klinkonskydev-1f2335?style=for-the-badge&logo=linkedin" alt="linkedin"/>
-  </a>&nbsp;
-  <a href="https://www.instagram.com/klinkonsky.dev/" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-klinkonskydev-1f2335?style=for-the-badge&logo=instagram" alt="instagram"/>
-  </a>&nbsp;
-</div>
-
-</br>
+"Nothing in this world beats good old-fashioned persistence. Talent doesn't. Nothing more common than talented failures. Genius doesn't. Unrecognized genius is practically a cliché. Education doesn't exceed. The world is full of educated fools. Persistence and determination alone are powerful."
